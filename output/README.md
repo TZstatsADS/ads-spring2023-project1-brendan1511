@@ -2,5 +2,8 @@
 
 ### Output folder
 
-The output directory contains analysis output, processed datasets, logs, or other processed things.
+This folder contains:
 
+- Pickle files with encoded data of quotes by Marx and Lenin that can be loaded in to save time.
+
+- a csv file containing the raw data for semantic similarity scores between authors in the dataset.
